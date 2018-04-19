@@ -1,0 +1,11 @@
+c:\users\тогузбаева\source\repos\logistic_controlnaya\logistic_controlnaya\bin\Debug\logistic_controlnaya.exe.config
+c:\users\тогузбаева\source\repos\logistic_controlnaya\logistic_controlnaya\bin\Debug\logistic_controlnaya.exe
+c:\users\тогузбаева\source\repos\logistic_controlnaya\logistic_controlnaya\bin\Debug\logistic_controlnaya.pdb
+c:\users\тогузбаева\source\repos\logistic_controlnaya\logistic_controlnaya\bin\Debug\EntityFramework.dll
+c:\users\тогузбаева\source\repos\logistic_controlnaya\logistic_controlnaya\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\тогузбаева\source\repos\logistic_controlnaya\logistic_controlnaya\bin\Debug\EntityFramework.xml
+c:\users\тогузбаева\source\repos\logistic_controlnaya\logistic_controlnaya\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\тогузбаева\source\repos\logistic_controlnaya\logistic_controlnaya\obj\Debug\logistic_controlnaya.csprojResolveAssemblyReference.cache
+c:\users\тогузбаева\source\repos\logistic_controlnaya\logistic_controlnaya\obj\Debug\logistic_controlnaya.csproj.CoreCompileInputs.cache
+c:\users\тогузбаева\source\repos\logistic_controlnaya\logistic_controlnaya\obj\Debug\logistic_controlnaya.exe
+c:\users\тогузбаева\source\repos\logistic_controlnaya\logistic_controlnaya\obj\Debug\logistic_controlnaya.pdb
